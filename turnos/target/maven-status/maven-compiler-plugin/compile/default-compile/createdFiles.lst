@@ -1,0 +1,9 @@
+com\example\turnos\TurnosApplication.class
+com\example\turnos\dto\TurnoDTO.class
+com\example\turnos\configuration\AppConfig.class
+com\example\turnos\service\TurnoService.class
+com\example\turnos\model\Turno.class
+com\example\turnos\controller\TurnoController.class
+com\example\turnos\service\ITurnoService.class
+com\example\turnos\model\Paciente.class
+com\example\turnos\repository\ITurnoRepository.class
